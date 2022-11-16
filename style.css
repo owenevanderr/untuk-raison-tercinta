@@ -1,0 +1,29 @@
+
+
+.home{
+    padding-top: 50px;
+}
+
+.lorem{
+    padding-top: 50px;
+    text-align: center;
+    background-color: purple;
+    color:white;
+    padding-bottom: 20px;
+}
+
+.foot{
+
+    color:white;
+    background-color: rgb(27, 27, 27);
+    padding-top: 20px;
+    min-height: 60vh;
+    text-align: center;
+}
+
+.cards{
+    min-height: 70vh;
+    background-color: purple;
+    padding-top: 80px;
+}
+
